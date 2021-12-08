@@ -17,3 +17,7 @@ def main():
     )
     fund_advanced_collectible(advanced_collectible)
     return advanced_collectible
+
+
+#0x44658e5365aEc7004E91Ce6B841E623736259AdD
+#0x422bdAA2DB12Af0dF3E49748b867CD1993d82880
